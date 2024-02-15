@@ -1,0 +1,11 @@
+1. menggunakan unicode character
+2. Penggunaan transition
+3. vertical align
+4. fr = free space
+5. grid, grid-template-colums -> untuk jumlah col, lalu col dan row gap buat jarak
+6. buat compare flex dan grid
+7. ".search-bar::placeholder" cara target placeholder di css
+8. box-shadow: {inset} atribute x value, y value, blur, color
+9. flex-shrink = 0, untuk tidak shrink, untuk shrink set width = 0. Karena pada dasarnya terdapat default width
+10. Fixed diletaikin ke browser window (yang bergerak), absolute beradi di page browser, relative akan sangat berguna jika di gabungkan dengan absolute untuk menghasilakn sebuah informasi yang jika di scrool ttp berada di posisinya.
+11. Pointer events
